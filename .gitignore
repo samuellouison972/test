@@ -1,0 +1,8 @@
+#les fichier .txt .docx .pdf seront ignoré
+
+*.txt
+*.docs
+*.pdf
+/uploads
+/vendors
+!/upload/README.md
